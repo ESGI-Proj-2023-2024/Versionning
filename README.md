@@ -1,2 +1,12 @@
 # GitEsgi
-Find the best cari recipe here !
+
+\033[1mROBOT CUISINE - CARI AU POULET\033[0m.
+
+
+\033[1m INSTALLATION \033[0m.
+
+
+Ensuite ?
+
+
+
