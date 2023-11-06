@@ -1,17 +1,11 @@
-<<<<<<< HEAD
+
 # GitEsgi
 
-\033[1mROBOT CUISINE - CARI AU POULET\033[0m.
+ROBOT CUISINE - CARI AU POULET
 
 
-\033[1m INSTALLATION \033[0m.
+INSTALLATION
 
-
-Ensuite ?
-
-
-
-=======
 # Versionning et GIT
 
 Projet en groupe, développement de fonctionnalités afin de programmer un robot qui pourra cuisiner de merveilleuses recettes.
