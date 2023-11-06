@@ -1,11 +1,3 @@
-
-# GitEsgi
-
-ROBOT CUISINE - CARI AU POULET
-
-
-INSTALLATION
-
 # Versionning et GIT
 
 Projet en groupe, développement de fonctionnalités afin de programmer un robot qui pourra cuisiner de merveilleuses recettes.
