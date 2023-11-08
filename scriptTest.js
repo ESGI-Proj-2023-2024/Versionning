@@ -28,3 +28,6 @@ let personne = {
 console.log("Nom: " + personne.nom);
 console.log("Prénom: " + personne.prénom);
 console.log("Âge: " + personne.âge);
+console.log("Âge: " + personne.âge);
+console.log("Âge: " + personne.âge);
+console.log("Âge: " + personne.âge);
