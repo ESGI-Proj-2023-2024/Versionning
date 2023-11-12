@@ -1,1 +1,21 @@
-node_modules
+# Fichiers de build 
+/build/
+
+# Fichier de configuration pour npm (Node Package Manager)
+
+# Verrouillage des versions des dépendances
+/package-lock.json
+# Gestionnaire de paquets pour JS
+/yarn.lock
+
+# Fichiers de dépendances
+/node_modules/
+
+# Fichiers temporaires
+*.log
+*.tmp
+
+# Fichier de configuration local, stockage de variables d'environnement local
+.env
+
+
